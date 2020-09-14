@@ -23,6 +23,8 @@ et permettant de réaliser de nombreuses actions sur le serveur Discord de [Syne
 python3 FiveM_Bot.py
 ```
 
+Le bot n'est pas utilisable tel quel, il faut modifier les identifiants de tous les rôles et salons. Il faut également ajouter le token de votre propre Bot
+
 ## Exemples
 
 Liste des commandes disponibles par le Bot :
