@@ -15,6 +15,7 @@ et permettant de réaliser de nombreuses actions sur le serveur Discord de [Syne
 - Système de tickets (Dans le même style que le Bot [**Ticket Tool**](https://tickettool.xyz/))
 - Système de logs des messages, afin de retouver des messages supprimés (Sauvegarde de la date et l'heure exacte du message, du salon dans lequel il a été écrit et le nom de l'auteur sur le serveur)
 - Création de messages **Embed** (*voir les exemples ci-dessous*)
+- Purge d'un salon (supprime les **n** derniers messages d'un salon et envoie une confirmation à la personne ayant lancé la commande) 
 - Ajout de réactions à des messages
 
 ## Lancement
